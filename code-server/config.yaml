@@ -1,0 +1,7 @@
+bind-addr: 127.0.0.1:3255 # 0.0.0.0 if you want to go public
+auth: password
+password: *****9858 #Ahmed Khaled Abdelrazeks SS#
+cert: false # Mel I will never forget
+app-name: fu-z # for fuck you Z ...
+welcome-text: <div class="submit -button"><h1>Hello from:<br><br>Ahmed K Abdelrazek</h1><br><br><div style="color:red>
+
